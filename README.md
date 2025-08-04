@@ -53,3 +53,17 @@ const [favorites, setFavorites] = useState([]);
 const [showSearch, setShowSearch] = useState(false);
 const [showUserMenu, setShowUserMenu] = useState(false);
 const [showModal, setShowModal] = useState(false);
+
+### 👨‍💻 Author
+Made with 💻 by Oran Gabai
+
+📧 oran.dev.code@gmail.com
+
+💼 LinkedIn
+
+🌐 GitHub
+
+### 📄 License
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project with attribution.
