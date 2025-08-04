@@ -42,20 +42,10 @@
 
 ---
 
-## ⚙️ Hooks & Functionality
-
-### `useState`
-Manages UI interactivity and user preferences.
-
-```js
-const [favorites, setFavorites] = useState([]);
-const [showSearch, setShowSearch] = useState(false);
-const [showUserMenu, setShowUserMenu] = useState(false);
-const [showModal, setShowModal] = useState(false);
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 Made with love 💻 by Oran Gabai
 
-📧 orangabai@gmail.com
-🔗 LinkedIn
+## 📧 orangabai@gmail.com
+## 🔗 LinkedIn: Oran Gabai
