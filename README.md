@@ -44,8 +44,6 @@
 
 ## ⚙️ Hooks & Functionality
 
-## ⚙️ Hooks & Functionality
-
 ### `useState`
 Manages UI interactivity and user preferences.
 
@@ -61,20 +59,3 @@ Made with love 💻 by Oran Gabai
 
 📧 orangabai@gmail.com
 🔗 LinkedIn
-yaml
-Copy
-Edit
-
----
-
-### TL;DR:
-Add this line **right after your last `useState` line**:
-
-yaml
-Copy
-Edit
-(three backticks on their own line, no spaces)
-
----
-
-That will close the code block and your author and other sections will render properly!
