@@ -3,7 +3,9 @@
 **Netlifeflix** is a modern streaming service concept built with **React** and **Tailwind CSS**, showcasing a sleek, responsive design and dynamic content. The application includes movie browsing, a search interface, a custom “My List” feature, and a user dropdown menu—all with a clean UI and interactive experience.
 
 > 💡 This is a demo project that demonstrates best practices in building React applications using functional components, hooks, and local storage for state persistence.
-![Netlifeflix Screenshot](https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/assets/images/Netlifeflix-exp.JPG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
 
 ---
 
