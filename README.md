@@ -34,7 +34,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-
+---
 - **React**: Component-based UI library for building dynamic interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for responsive design.
 - **Vite**: Lightweight and fast frontend build tool.
