@@ -54,7 +54,7 @@ const [showSearch, setShowSearch] = useState(false);
 const [showUserMenu, setShowUserMenu] = useState(false);
 const [showModal, setShowModal] = useState(false);
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 Made with 💻 by Oran Gabai
 
 📧 oran.dev.code@gmail.com
@@ -63,7 +63,7 @@ Made with 💻 by Oran Gabai
 
 🌐 GitHub
 
-### 📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this project with attribution.
