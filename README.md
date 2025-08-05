@@ -41,7 +41,22 @@
 - **Local Storage**: Persistent client-side data management.
 
 ---
-
+## 📸 Project Screenshot Gallery
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp2.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp3.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp4.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp5.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oran-gabi/NETLIFEFLIX--app-streamer-template/main/src/assets/images/Netlifeflix-exp6.JPG" alt="Netlifeflix Screenshot" width="600"/>
+</p>
 
 
 ## 👨‍💻 Author
