@@ -64,7 +64,6 @@ Made with love 💻 by Oran Gabai
 
 📧 orangabai@gmail.com
 
- 🔗  **LinkedIn:** [Oran Gabai](https://www.linkedin.com/in/oran-gabai-9a5861aa/)
-=======
+
  🔗  **LinkedIn:** [Oran Gabai](https://www.linkedin.com/in/oran-gabai-9a5861aa/)
 
