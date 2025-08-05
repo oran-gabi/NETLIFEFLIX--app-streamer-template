@@ -63,8 +63,8 @@
 Made with love 💻 by Oran Gabai
 
 📧 orangabai@gmail.com
-<<<<<<< HEAD
+
  🔗  **LinkedIn:** [Oran Gabai](https://www.linkedin.com/in/oran-gabai-9a5861aa/)
 =======
  🔗  **LinkedIn:** [Oran Gabai](https://www.linkedin.com/in/oran-gabai-9a5861aa/)
->>>>>>> e909014 (sec version)
+
